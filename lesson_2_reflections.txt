@@ -3,3 +3,12 @@ Ans: When I initialize a repository using git init command, it crates a folder/d
 
 Ques: How is the staging area are different from the working directory and the repository? What value do you think it offers?
 Ans: Staging area is like cache and repository is like CPU and commit is any memory fetch operation. When we commit a file, it commits the file in the staging area first. Thus, if we have done some logical changes to only one or two files then it is good practice to put those files in the staging area and then git commit to commit those only files in the staging area. This is the main value it offers, i think.
+
+Ques: How can you use the staging area to make sure you have one commit per logical change?
+Ans: First, add the file in which logical change has been done, to the staging area. Then, that files in the staging area will be committed when git commit command will run. Thus, it makes sure that the only file with logical change has been committed.
+
+Ques:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans: As said in the video by Ms. Caroline, it helps to maintain the different versions of the project for different group of audiences. Branches are helpful as we can switch to different branches and make changes and retain earlier simultaneously. When i have to share my project and dont want to share whole project at once, i.e., to hide some of the features.
+
+Ques: How do the diagrams help you visualize the branch structure?
+Ans: Diagrams are always helpful in visualizing any concept. Here, branching structure is not linear and it is sometimes hard to visualize it so it is better to make diagramtic representation of the branches and switches to particular branches required. It helps in maintaining consistency throughout the project with colleagues or whomsoever we share the code.
