@@ -1,0 +1,22 @@
+Ques: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Ans: It compares two files and for a short file, i can easily detect the differences and remove bugs. It is an helpful tool.
+
+Ques: How could having easy access to the entire history of a file make you a more efficient programmer in long term?
+Ans: Actually, as a programmer when we write code, then we changes and modifies our code casually. Sometimes a change can be drastic enough and we cant figure out how to handle it and we keep pressing Ctrl+Z and undo it. But sometimes it is hard to back to previous state. So, history of a file is very useful in this case.
+
+Ques: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Ans: Manually choosing in Git is good because when we did a significant change and that is need to be remembered and if later versions need to be rolled back we can see which version to load.
+Also, sometimes if we forgot to commit using Git, then AutoSave option in Google Docs is more useful.
+
+Ques: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Ans: I think its a good idea to save multiple files with a single commit because it maintains consistency between files.
+
+Ques: How can you use the commands git log and git diff to view the history of files?
+Ans: git log command shows the history of all the commits done to the project with specific id and statement used for particular commit. 
+git diff command is used to compare two files i.e., checking two versions of projects by comparing the ids we get as output in git log command. 
+
+Ques: 
+Ans: I dont completely understand git checkout command but as far i have understood it is used to get back to previous versions of the project.
+
+Ques: Now that you have your workspace set up, what do you want to try using GIT for?
+Ans: It is quite fascinating to use commands to do the work. I am using windows since long or since i have started using computers. I think i wil sure switch to unix after completion of this course.
