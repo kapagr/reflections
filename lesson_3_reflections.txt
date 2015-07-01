@@ -19,3 +19,10 @@ Whenever we want to trace back to the point where we were earlier means after pu
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would prefer sharing through mails or dropbox. But github will be easier to use now.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When i am the only person i.e., there is no collaborator i would prefer to use single branch. Also, suppose i got some new feature to add to my work, then i would prefer branching so that whenever i need earlier versions i can easily switch.
+Since, Github has public as private sharing facility. When i am gonna share publicly, i want to keep my work safe in the sense that if someone downloaded and used it and i dont want my work to be used woth someone else's name like copyright something, i can use branching there also.
+
+
