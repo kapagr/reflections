@@ -5,3 +5,9 @@ When my project also include some collaborators or i am contributing to project 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 if i am working on remote repository, a friend of mine made some changes and i am also doing some change and it should not conflict. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks: When i want to get access to repository some one else on my own github and system.
+Clone: When i want to add repository to my own system from github.
+Branch: When i want to make different versions of same project with some changes.(Share to some one else and hide some of the features/files)
