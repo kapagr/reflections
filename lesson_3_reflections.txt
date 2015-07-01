@@ -15,3 +15,7 @@ Branch: When i want to make different versions of same project with some changes
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Whenever we want to trace back to the point where we were earlier means after pulling from the github, we can do this easily.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would prefer sharing through mails or dropbox. But github will be easier to use now.
